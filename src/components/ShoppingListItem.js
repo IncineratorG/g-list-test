@@ -45,6 +45,6 @@ const styles = StyleSheet.create({
   iconsWrapperStyle: {
     backgroundColor: 'transparent',
     height: 60,
-    width: 50,
+    width: 150,
   },
 });
