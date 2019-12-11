@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
   textStyle: {
     fontSize: 18,
     marginLeft: 20,
-    color: 'black',
+    color: 'gray',
   },
 
   iconsWrapperStyle: {
